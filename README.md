@@ -1,4 +1,4 @@
 # git-to-know
 Let's learn git together
-Learn from scratch
+Educating from scratch
 Zero to Hero
